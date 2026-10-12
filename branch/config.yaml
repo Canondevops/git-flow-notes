@@ -1,0 +1,8 @@
+
+
+# Application runtime environment setup
+app:
+  environment: production
+  version: "1.0.0"
+  debug: false
+
