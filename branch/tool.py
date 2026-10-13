@@ -11,4 +11,5 @@ def load_config(file_path):
 
 # Usage
 config_data = load_config('config.yml')
+adding new line
 
